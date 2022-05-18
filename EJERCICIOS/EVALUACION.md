@@ -18,10 +18,18 @@ Preguntas:
     
 2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
     
+       ALmacenar
+       Suministrar
+       Conectar
+       Insertar
+       Suprimir
+       Codificar
+    
     
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
   
+      
       
 4. ¿Qué es un Sistema de Información? (valor 1.5)
       
@@ -63,3 +71,7 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+![image](https://user-images.githubusercontent.com/101655295/169094142-cbd64b80-d276-4439-b25e-453c90758b08.png)
+![image](https://user-images.githubusercontent.com/101655295/169093993-edab26f0-f2bd-4fad-8a1c-3698b40ac89e.png)
+
