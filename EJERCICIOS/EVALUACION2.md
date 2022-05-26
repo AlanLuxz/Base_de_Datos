@@ -15,7 +15,7 @@ Ejercicio:
 
         Caracter
         Numerico
-        Voleano
+        Boleano
       
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
