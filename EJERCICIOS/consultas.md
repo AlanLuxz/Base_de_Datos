@@ -18,8 +18,11 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 
+![image](https://user-images.githubusercontent.com/101655295/170740808-b8a271bc-e7e7-4f89-bfc0-6162adda33bd.png)
 
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
+
+
 * En la tabla peridistas muestra solo los que escriban sobre cine
 * De la tabla revistas muestra las que sean de publicacion quincenal
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
