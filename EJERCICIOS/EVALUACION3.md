@@ -41,6 +41,7 @@ productos. (valor 4.5)
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
 
+![image](https://user-images.githubusercontent.com/101655295/171681681-c5a58781-2e48-466d-abfc-5d1cb5ea65bc.png)
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
