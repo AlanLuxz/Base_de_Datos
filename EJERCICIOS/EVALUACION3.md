@@ -9,10 +9,15 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+        Es un tipo de sistema de gestion de datos, fueron diseñados para realizar consultas y tareas de analisís.
+        
 2. Realiza un diseño del modelo en estrella (valor 2)
+
+    ![image](https://user-images.githubusercontent.com/101655295/171659143-1a1bd405-bb2e-4d3a-bee9-5743933fe558.png)
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
+![image](https://user-images.githubusercontent.com/101655295/171660856-550f2863-340c-4e06-975d-2fd7ca85c73b.png)
 
 ## Práctica 7
 ### Funciones en SQL
